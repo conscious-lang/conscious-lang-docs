@@ -6,7 +6,7 @@ To this end, we recommend the following practices in your projects:
 
 ## Assessment
 
-In this phase, you will look at your project code, documentation, and web presence looking for words and phrases identified in our FAQ - [internal link - public version coming soon]. If these assets are stored in Git, we have tools to simplify this process, which we can share with you, or run on your behalf.
+In this phase, you will look at your project code, documentation, and web presence looking for words and phrases identified in [our FAQ](https://github.com/conscious-lang/conscious-lang-docs/blob/master/faq.md). If these assets are stored in Git, we have tools to simplify this process, which we can share with you, or run on your behalf.
 
 This will give you a very high level view of the scope of the work to be done, but more work is needed to figure out the actual level of effort involved in remediation.
 
