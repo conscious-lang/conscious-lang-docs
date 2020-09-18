@@ -22,9 +22,11 @@ Our goals are to identify where problematic terms are used, collaborate on repla
 
 If open source is truly meant to be inclusive and a place where anyone can participate, it must be welcoming to all. If words or phrases convey secondary unintended meanings to our audience, we are choosing to limit participation in our projects, which is antithetical to this goal.
 
-## What terms will are we recommending you consider?
+## What terms are we recommending you consider?
 
-We have identified the terms “master/slave” and “whitelist/blacklist” to work on because these are considered most visible and problematic across the industry.  We are also working on a more comprehensive list to include words that reference mental health, gender, physical handicaps, and several other categories.
+We have identified the terms "master/slave" and "whitelist/blacklist" to work on because these are considered most visible and problematic across the industry.
+
+Over time, we may recommend consideration of other terms, such as words that reference mental health, gender, physical handicaps, and several other categories.
 
 ## What are the recommended replacement terms?
 
@@ -48,6 +50,25 @@ Our recommendations for blacklist/whitelist terminology are:
  * blocklist / passlist
 
 If your project opts to use some other term or phrase, please let us know that you’ve done so, and why, so that we can learn from your decisions.
+
+## Oh no! Slippery slope! Newspeak!
+
+That's not what Newspeak is. Newspeak involved multiple changes but the most essential were:
+
+ * Removing precise words in favor of general words so that it would become difficult to form precise thoughts
+ * Using the opposite word for the true situation to disguise what's really happening
+
+Everything in the conscious language initiative is *the exact opposite* of that.
+
+For example, "Denylist" is both more precise and more accurate than "blacklist";
+
+"Primary" is both more precise and more accurate than "master" in projects that have made that switch.
+
+The goal of this project is to use more precise words, in order to avoid
+unintended connotations that some common words and phrases have. Not
+only does this eliminate the hurt caused by those connotations, it also
+improves understanding, particularly for people who are reading in a
+second language, where those idioms may be confusing.
 
 ## How can I educate myself on why these terms are problematic?
 
