@@ -8,4 +8,5 @@ This includes:
 
  * [Best Practice and Recommendations](https://github.com/conscious-lang/conscious-lang-docs/blob/master/recommendations.md)
 
+Profile logo is CC-BY-SA from [Schuminweb on Flickr](https://www.flickr.com/photos/64873675@N00/50067689637/)
 
