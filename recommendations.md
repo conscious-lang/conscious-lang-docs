@@ -6,22 +6,22 @@ To this end, we recommend the following practices in your projects:
 
 ## Assessment
 
-In this phase, you will look at your project code, documentation, and web presence looking for words and phrases identified in our FAQ - https://mojo.redhat.com/docs/DOC-1229763. If these assets are stored in Git, we have tools to simplify this process, which we can share with you, or run on your behalf.
+In this phase, you will look at your project code, documentation, and web presence looking for words and phrases identified in our FAQ - [internal link - public version coming soon]. If these assets are stored in Git, we have tools to simplify this process, which we can share with you, or run on your behalf.
 
 This will give you a very high level view of the scope of the work to be done, but more work is needed to figure out the actual level of effort involved in remediation.
 
 We recommend that the assessment phase be a simple count - how many occurrences of the target words/phrases are there in the code and documentation. For many projects, this phase results in a “nothing to do” verdict and, in itself, is a good data point worth mentioning to your community, and sharing with  the Red Hat conscious language team.
 
-The Conscious Language group is developing a dashboard that will track progress on the projects we are following. If you want your project added to the dashboard, please get in touch with us on our mailing list - http://post-office.corp.redhat.com/mailman/listinfo/conscious-lang-group
+The Red Hat Conscious Language group is developing a dashboard that will track progress on the projects we are following.
 
 ## Impact survey
 
 Problematic language in your project falls into four major categories, each of which has a very different level of effort needed to address.
 
-Words and phrases that appear in documentation, web pages, or code comments, but do not directly relate to keywords, variables, function names, and so on, in the actual code. These can simply be changed to better alternatives with no functional impact.
-Words that are in code can sometimes be changed with no functional impact (eg, local variable names, function names that are only called inside the project code and not accessed externally.)
-Function names or configuration directives which are exposed externally, such as via an API or a configuration file, require a deprecation plan, so that you do not risk breaking production deployments.
-And finally there are functional calls into other projects, APIs, services, and so on, which you cannot change until that other project/service changes. We recommend writing wrapper functions so your code can be “clean”, but still work with third-party code.
+1. Words and phrases that appear in documentation, web pages, or code comments, but do not directly relate to keywords, variables, function names, and so on, in the actual code. These can simply be changed to better alternatives with no functional impact.
+2. Words that are in code can sometimes be changed with no functional impact (eg, local variable names, function names that are only called inside the project code and not accessed externally.)
+3. Function names or configuration directives which are exposed externally, such as via an API or a configuration file, require a deprecation plan, so that you do not risk breaking production deployments.
+4. And finally there are functional calls into other projects, APIs, services, and so on, which you cannot change until that other project/service changes. We recommend writing wrapper functions so your code can be “clean”, but still work with third-party code.
 
 Changes in categories 1 and 2 are a great place to judge the community’s appetite for changes in categories 3 and 4, and so we recommend you have early conversations around those changes.
 
@@ -33,7 +33,7 @@ Remediation will be different for every project, but we have some recommendation
 
 Perhaps the most important thing about remediation is communicating what you’re doing - to your developers, your users, your customers - anybody who has a stake in the change. This is particularly critical with changes in category 3 (above).
 
-If you use tags/labels in your tickets and/or git commits/pull requests, we recommend the use of the tag ‘inclusion’, as recommended in https://medium.com/@sunnydeveloper/squash-inclusion-bugs-982a3e5ee29d. This will allow potential contributors to find these tickets quickly, and will also allow us to identify other projects working on the same issue once the label begins to spread.
+If you use tags/labels in your tickets and/or git commits/pull requests, we recommend the use of the tag ‘inclusion’, as recommended in [this blog post](https://medium.com/@sunnydeveloper/squash-inclusion-bugs-982a3e5ee29d). This will allow potential contributors to find these tickets quickly, and will also allow us to identify other projects working on the same issue once the label begins to spread.
 
 ### Expect Pushback
 
@@ -69,8 +69,4 @@ Tell new contributors that this is what you expect. Don’t apologize for it. Ha
 
 GoTo 1. Ensure that nothing has crept into your code or documentation by routinely scanning for these terms. As we update our tooling, you may wish to start scanning for other words and phrases, based on feedback from your community. Let us know how it’s going!
 
-## Other resources
-
- * FAQ - https://mojo.redhat.com/docs/DOC-1229763
- * Our mailing list - http://post-office.corp.redhat.com/mailman/listinfo/conscious-lang-group
 
