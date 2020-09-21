@@ -49,7 +49,7 @@ Our recommendations for blacklist/whitelist terminology are:
  * denylist / allowlist
  * blocklist / passlist
 
-If your project opts to use some other term or phrase, please let us know that you’ve done so, and why, so that we can learn from your decisions.
+If your project opts to use some other term or phrase, please [let us know](https://github.com/conscious-lang/conscious-lang-docs/issues) that you’ve done so, and why, so that we can learn from your decisions.
 
 ## Oh no! Slippery slope! Newspeak!
 
