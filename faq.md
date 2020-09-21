@@ -81,3 +81,6 @@ Here are some resources on the topic:
  * [Broken Metaphor: The Master-Slave Analogy in Technical Literature (2007)](https://www.jstor.org/stable/40061475?seq=1) - article in JSTOR, requires free membership to read
  * [Terminology, Power and Oppressive Language](https://tools.ietf.org/id/draft-knodel-terminology-00.html) - article with recommendations by Mallory Knodel and Niels ten Oever
 
+## How can I get a list of projects that need help in this effort?
+
+[Answer needed]
