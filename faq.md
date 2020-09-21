@@ -79,8 +79,9 @@ Here are some resources on the topic:
 
  * [Welcoming Nomenclature](https://www.youtube.com/watch?v=hZuFeFuazwo) - Community Central presentation by Rich Bowen (Red Hat)
  * [Is It Enough To Remove Words With Racist Connotations From Tech Language? Hint: No](https://www.npr.org/2020/07/09/889502179/is-it-enough-to-remove-words-with-racist-connotations-from-tech-language-hint-no) - NPR interview with web developer Caroline Karanja
- * [Why is everything white?](https://www.bbc.com/news/av/world-us-canada-52988605/muhammad-ali-why-is-everything-white%20(1971)) - interview with Muhammed Ali
+ * [Why is everything white?](https://www.bbc.com/news/av/world-us-canada-52988605/muhammad-ali-why-is-everything-white) (1971) - interview with Muhammed Ali
  * [That Word Black (2014)](http://mcwriting11.blogspot.com/2014/06/that-word-black-by-langston-hughes.html) - blog post by Langston Hughes
  * [Broken Metaphor: The Master-Slave Analogy in Technical Literature (2007)](https://www.jstor.org/stable/40061475?seq=1) - article in JSTOR, requires free membership to read
  * [Terminology, Power and Oppressive Language](https://tools.ietf.org/id/draft-knodel-terminology-00.html) - article with recommendations by Mallory Knodel and Niels ten Oever
+ * [Why "master" matters](https://twitter.com/mislav/status/1270388510684598272) - A twitter thread.
 
