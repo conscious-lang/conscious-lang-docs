@@ -30,7 +30,7 @@ Over time, we may recommend consideration of other terms, such as words that ref
 
 ## What are the recommended replacement terms?
 
-To proceed, teams should follow the recommendations outlined by the Linux kernel. These recommendations have informed the terminology recommendations we provide below. 
+To proceed, teams should follow the [recommendations outlined by the Linux kernel](https://lkml.org/lkml/2020/7/4/229). These recommendations have informed the terminology recommendations we provide below. 
 
 To ensure consistency and success, it is imperative for product team stakeholders to align internally. For example, documentation teams should engage in discussions with their engineering leadership to reach an agreement on replacement terms. This will ensure that the product documentation will match the code.
 
