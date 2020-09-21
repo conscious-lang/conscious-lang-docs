@@ -53,7 +53,10 @@ If your project opts to use some other term or phrase, please let us know that y
 
 ## Oh no! Slippery slope! Newspeak!
 
-That's not what Newspeak is. Newspeak involved multiple changes but the most essential were:
+We've heard concerns that this initiative
+puts us on a slippery slope to Newspeak portrayed in the 1984 dystopia
+by George Orwell. This initiative is completely different from Newspeak.
+Newspeak involved multiple changes but the most essential were:
 
  * Removing precise words in favor of general words so that it would become difficult to form precise thoughts
  * Using the opposite word for the true situation to disguise what's really happening
