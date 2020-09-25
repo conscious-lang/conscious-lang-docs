@@ -85,3 +85,6 @@ Here are some resources on the topic:
  * [Terminology, Power and Oppressive Language](https://tools.ietf.org/id/draft-knodel-terminology-00.html) - article with recommendations by Mallory Knodel and Niels ten Oever
  * [Why "master" matters](https://twitter.com/mislav/status/1270388510684598272) - A twitter thread.
 
+## How can I get a list of projects that need help in this effort?
+
+[Answer needed]
