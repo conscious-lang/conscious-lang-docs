@@ -1,4 +1,4 @@
-# Frequently Asked QUestions: Conscious Language Program
+# Frequently Asked Questions: Conscious Language Program
 
 ## What is a "conscious language" effort?
 
