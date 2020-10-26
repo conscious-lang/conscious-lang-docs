@@ -1,32 +1,22 @@
-# Frequently Asked QUestions: Conscious Language Program
+# Frequently Asked Questions: Conscious Language Program
 
 ## What is a "conscious language" effort?
 
-The software industry has fallen in to the habit of using certain
-words, like blacklist, and slave, without giving a lot of thought to the
-emotional baggage that these words carry.
+The phrase "conscious language" refers to selecting words and phrases consciously, intentionally, considering connotations as well as denotations. The software industry sometimes uses certain words, like blacklist, and slave, that may carry a great deal of emotional and historical baggage. We are encouraging projects to choose phrases that clearly communicate the technical meaning, without using metaphors or colloqualisms.
 
-The phrase "conscious language" refers to selecting words and phrases
-consciously, intentionally, considering connotations as well as
-denotations. We encourage projects to choose phrases that clearly
-communicate the technical meaning, without using metaphors or
-colloqualisms.
-
-This has the dual meaning of removing problematic terms, and also
-communicating more clearly, particularly to those who are working in a
-secondary language.
+This has the dual purpose of removing problematic terms, and also communicating more clearly, particularly to those who are working in a secondary language.
 
 Our goals are to identify where problematic terms are used, collaborate on replacement terminology, support project contributors in making updates, and report on joint progress.
 
 ## Why is this important?
 
-If open source is truly meant to be inclusive and a place where anyone can participate, it must be welcoming to all. If words or phrases convey secondary unintended meanings to our audience, we are choosing to limit participation in our projects, which is antithetical to this goal.
+If open source is truly meant to be inclusive and a place where anyone can participate, it must be welcoming to all. If words or phrases convey secondary unintended meanings to our audience (or are simply confusing!) we are potentially limiting participation in our projects, which is antithetical to this goal.
 
 ## What terms are we recommending you consider?
 
 We have identified the terms "master/slave" and "whitelist/blacklist" to work on because these are considered most visible and problematic across the industry.
 
-Over time, we may recommend consideration of other terms, such as words that reference mental health, gender, physical handicaps, and several other categories.
+Over time, we may recommend consideration of other terms, such as words that reference mental health, gender, physical handicaps, and several other categories. We may also give tips on avoiding colloquialisms that simply don't translate well or prove a barrier to understanding.
 
 ## What are the recommended replacement terms?
 
