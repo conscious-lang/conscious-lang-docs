@@ -2,7 +2,7 @@
 
 ## What is a "conscious language" effort?
 
-The phrase "conscious language" refers to selecting words and phrases consciously, intentionally, considering connotations as well as denotations. The software industry sometimes uses certain words, like blacklist, and slave, that may carry a great deal of emotional and historical baggage. We are encouraging projects to choose phrases that clearly communicate the technical meaning, without using metaphors or colloqualisms.
+The phrase "conscious language" refers to selecting words and phrases consciously, intentionally, considering connotations as well as denotations. The software industry sometimes uses certain words, like blacklist, and slave, that may carry a great deal of emotional and historical baggage. We are encouraging projects to choose phrases that clearly communicate the technical meaning, without using metaphors or colloquialisms.
 
 This has the dual purpose of removing problematic terms, and also communicating more clearly, particularly to those who are working in a secondary language.
 
