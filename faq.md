@@ -66,7 +66,7 @@ second language, where those idioms may be confusing.
 ## How can I educate myself on why these terms are problematic?
 
 Here are some resources on the topic:
-
+ * [ Terminology, Power, and Inclusive Language in Internet-Drafts and RFCs](https://tools.ietf.org/html/draft-knodel-terminology) - IETF draft argues for more inclusive language conventions by RFC authors
  * [Welcoming Nomenclature](https://www.youtube.com/watch?v=hZuFeFuazwo) - Community Central presentation by Rich Bowen (Red Hat)
  * [Is It Enough To Remove Words With Racist Connotations From Tech Language? Hint: No](https://www.npr.org/2020/07/09/889502179/is-it-enough-to-remove-words-with-racist-connotations-from-tech-language-hint-no) - NPR interview with web developer Caroline Karanja
  * [Why is everything white?](https://www.bbc.com/news/av/world-us-canada-52988605/muhammad-ali-why-is-everything-white) (1971) - interview with Muhammed Ali
