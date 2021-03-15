@@ -41,6 +41,12 @@ Our recommendations for blacklist/whitelist terminology are:
 
 If your project opts to use some other term or phrase, please [let us know](https://github.com/conscious-lang/conscious-lang-docs/issues) that you’ve done so, and why, so that we can learn from your decisions.
 
+### Why does 'master' matter outside of the context of master/slave?
+
+While 'master/slave' is a clear example, 'master' is a word that has context-specific meanings that have different connotations. We recommend you consider, is 'master' the most accurate word you can use? Is this the word you would consciously choose in this case?
+
+A further question to consider in the use of the word 'master' is: Is it a thing that is controlling things without giving those things free will?
+
 ## Oh no! Slippery slope! Newspeak!
 
 We've heard concerns that this initiative
